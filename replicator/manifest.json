@@ -1,0 +1,26 @@
+{
+  "name": "Replicator",
+  "version": "1.0",
+  "description": "Replicator",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "page_action" :
+  {
+    "default_icon" : "magicwand.png",
+    "default_title" : "Replicator"
+  },
+  "permissions" : [
+    "declarativeContent",
+	"tabs",
+	"storage",
+	"<all_urls>",
+	"http://*/",
+	"debugger"
+  ],
+  "icons" : {
+    "128" : "magicwand.png"
+  },
+  "manifest_version": 2
+}
