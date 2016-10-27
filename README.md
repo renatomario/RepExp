@@ -16,23 +16,23 @@ RepExp represents the evolution of an early prototype: the [Educational Resource
 
 A discovery exploratory activity is initiated by clicking on the Replicator extension button (top right), automatically activated in any standard Google™ SERP page:
 
-![Selecting Replicator from a standard Google SERP.](screenshots/RepExpScreenshot1.png "Selecting Replicator from a standard Google SERP.")
+![Selecting Replicator from a standard Google SERP.](screenshots/RepExpScreenshot1.PNG "Selecting Replicator from a standard Google SERP.")
 
-The system intercepts the user Google™ search keywords and replicates the search in the Learning Registry, producing a custom SERP with plenty of resources and related (LRMI) educational metadata. In this case, xxx educational resources have been identified:
+The system intercepts the user Google™ search keywords and replicates the search in the Learning Registry, producing a custom SERP with plenty of resources and related (LRMI) educational metadata. In this case, 399 educational resources have been identified:
 
-![Resulting custom SERP page with educational metadata.](screenshots/RepExpScreenshot2.png "Resulting custom SERP page with educational metadata.")
+![Resulting custom SERP page with educational metadata.](screenshots/RepExpScreenshot2.PNG "Resulting custom SERP page with educational metadata.")
 
 The user explores the resources; at any time he can click on the Expander extension button (top right):
 
-![Selecting Expander after exploring an educational resource.](screenshots/RepExpScreenshot3.png "Selecting Expander after exploring an educational resource.")
+![Selecting Expander after exploring an educational resource.](screenshots/RepExpScreenshot3.PNG "Selecting Expander after exploring an educational resource.")
 
-The system displays a ranked list of educational resources similar to the currently visited resource, xxx in this case, with relevant (LRMI) educational metadata:
+The system displays a ranked list of educational resources similar to the currently visited resource, 1345 in this case, with relevant (LRMI) educational metadata:
 
-![List of similar educational resources](screenshots/RepExpScreenshot4.png "List of similar educational resources.")
+![List of similar educational resources](screenshots/RepExpScreenshot4.PNG "List of similar educational resources.")
 
 From here, the user can navigate to any of these resources, explore them, and further ask again for additional resources similar to the current resource he is exploring . At any time, the user can consult the navigation path of his exploratory activities:
 
-![Navigating from an educational resource to similar resources.](screenshots/RepExpScreenshot5.png "Navigating from an educational resource to similar resources.")
+![Navigating from an educational resource to similar resources.](screenshots/RepExpScreenshot5.PNG "Navigating from an educational resource to similar resources.")
 
 ### Feedback
 Main objective of this prototype is to share ideas being developed in a research project, investigating solutions to support the discoverability of (open) educational resources: any feedback is definitely welcome!
